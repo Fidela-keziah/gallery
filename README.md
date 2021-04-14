@@ -5,18 +5,15 @@ There is a better way to Travel the world through the eyes of photograher.}, { 1
 Fidela-Keziah
 
 ## Description
- A gallery application that display your photos for others to see.
+ A gallery application that displays your photos for others to see.
 
 ## Cloning
-
 * UBUNTU
 * Open Terminal
 * Google Chrome
 * internet
 
-
 ## Application Used
-
 * Python
 * Django
 * Bootstrap4
@@ -24,11 +21,9 @@ Fidela-Keziah
 * Heroku
 
 ## Technology Used
-
 * Python 3.6
 
 ## BDD
-
 * View different photos that interest me.
 * Click on a single photo to expand it and also view the details of the photo. The photo details must appear on a modal within the same route as the main page.
 * Search for different categories of photos. (ie. pyramids, gardens)
@@ -39,9 +34,8 @@ Fidela-Keziah
 https://git.heroku.com/fidelapictures.git
 
 ## Contact Information
-
 irafidela@gmail.com
 slack: Fidela Iradukunda
-### License
 
+### License
 * MIT license,Copyright (c) {2021} **{Fidela-Keziah}**
