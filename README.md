@@ -34,6 +34,7 @@ Fidela-Keziah
 https://git.heroku.com/fidelapictures.git
 
 ## Contact Information
+For any querry or contributions:
 irafidela@gmail.com
 slack: Fidela Iradukunda
 
