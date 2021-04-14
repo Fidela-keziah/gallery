@@ -1,11 +1,10 @@
 # {My-Gallery}
 
-#### {There is a better way to Travel the world through the eyes of photograher.}, {23 December 2020}
-#### By **{Fidela-Keziah}**
+#### {There is a better way to Travel the world through the eyes of photograher.}, {23 December 2021}
+#### By **{Fidela-Keziah}
 
 ## Description
-
-{a personal gallery application that you display your photos for others to see.}
+ gallery application that you display your photos for others to see.
 
 ## Cloning
 
@@ -44,4 +43,4 @@ irafidela@gmail.com
 slack: Fidela Iradukunda
 ### License
 
-* MIT license,Copyright (c) {2020} **{Fidela-Keziah}**
+* MIT license,Copyright (c) {2021} **{Fidela-Keziah}**
