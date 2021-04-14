@@ -36,11 +36,11 @@
 * View photos based on the location they were taken.
 
 ## Live link
-
+https://git.heroku.com/fidelapictures.git
 
 ## Contact Information
 
-{feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.}
+{ irafidela@gmail.com}
 
 ### License
 
