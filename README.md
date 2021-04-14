@@ -41,7 +41,7 @@ https://git.heroku.com/fidelapictures.git
 ## Contact Information
 
 irafidela@gmail.com
-
+slack: Fidela Iradukunda
 ### License
 
 * MIT license,Copyright (c) {2020} **{Fidela-Keziah}**
