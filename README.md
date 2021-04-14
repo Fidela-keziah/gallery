@@ -1,7 +1,8 @@
 # My-Gallery
 
-#### {There is a better way to Travel the world through the eyes of photograher.}, { 14th April 2021}
-#### By **{Fidela-Keziah}
+There is a better way to Travel the world through the eyes of photograher.}, { 14th April 2021
+## Author
+Fidela-Keziah
 
 ## Description
  gallery application that you display your photos for others to see.
