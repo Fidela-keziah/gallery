@@ -1,6 +1,6 @@
-# {My-Gallery}
+# My-Gallery
 
-#### {There is a better way to Travel the world through the eyes of photograher.}, { 14th   2021}
+#### {There is a better way to Travel the world through the eyes of photograher.}, { 14th April 2021}
 #### By **{Fidela-Keziah}
 
 ## Description
