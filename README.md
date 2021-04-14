@@ -5,7 +5,7 @@ There is a better way to Travel the world through the eyes of photograher.}, { 1
 Fidela-Keziah
 
 ## Description
- gallery application that you display your photos for others to see.
+ A gallery application that display your photos for others to see.
 
 ## Cloning
 
