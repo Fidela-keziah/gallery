@@ -38,4 +38,4 @@ irafidela@gmail.com
 slack: Fidela Iradukunda
 
 ### License
-* MIT license,Copyright (c) {2021} **{Fidela-Keziah}*
+* MIT license,Copyright (c) {2021} **{Fidela-Keziah}
